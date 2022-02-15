@@ -1,0 +1,86 @@
+body{
+    text-align: center;
+}
+.first-heading{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 10;
+    color: #D1D1D1;
+}
+.second-heading{
+    font-size: 45px;
+    font-weight: bold;
+}
+.first-paragraph{
+    font-size: 20px;
+    color: #CCD1E4;
+}
+.super{
+    height: 250px;
+    width: 400px;
+    box-shadow: 2px 5px 25px rgb(231, 226, 226);
+    border-top: 5px solid green;
+    position: absolute;
+    left: 300px;
+    bottom: 220px;
+    text-align: left;
+    border-radius: 5px;
+}
+
+.team{
+    height: 250px;
+    width: 400px;
+    box-shadow: 2px 5px 25px rgb(231, 226, 226);
+    border-top: 5px solid red;
+    position: absolute;
+    left: 750px;
+    bottom: 370px;
+    text-align: left;
+    border-radius: 5px;
+}
+
+.karma{
+    height: 250px;
+    width: 400px;
+    box-shadow: 2px 5px 25px rgb(231, 226, 226);
+    border-top: 5px solid orange;
+    position: absolute;
+    left: 750px;
+    bottom: 70px;
+    text-align: left;
+    border-radius: 5px;
+}
+.calculator{
+    height: 250px;
+    width: 400px;
+    box-shadow: 2px 5px 25px rgb(231, 226, 226);
+    border-top: 5px solid blue;
+    position: absolute;
+    left: 1200px;
+    bottom: 220px;
+    text-align: left;
+    border-radius: 5px;
+}
+.card-padding{
+    padding-left: 10%;
+}
+.super-image{
+   position: absolute;
+   left: 300px;
+   bottom: 40px;  
+}
+.team-image{
+    position: absolute;
+    left: 300px;
+    bottom: 30px;
+}
+.calculator-image{
+    position: absolute;
+    left: 300px;
+    bottom: 30px;
+}
+.karma-image{
+    position: absolute;
+    left: 300px;
+    bottom: 30px;
+}
